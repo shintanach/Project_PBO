@@ -177,6 +177,5 @@ public class LoginPage extends Application{
             }
            return "Maaf Password Yang anda Masukan Salah!!";
     }
-    hjhjgjkugiu
 
 }
